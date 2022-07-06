@@ -35,10 +35,11 @@ Try to implement as many features as you can, but make sure to plan the structur
 - Now, you can use `python manage.py runserver` to start the dev server or `python manage.py startapp <appname>` to create a new app inside this project
 - After completing the assignment, append instructions to run your project, along with explanation of features etc in this README
 - It would be nice if you can host it on Heroku and also give a documentation of each endpoint through postman
-- Finally submit with your details in the Google Form before the deadline
+- Finally submit with your details in the [Google Form](https://forms.gle/XSidrfbrsEZuDYfy6)
 - You do NOT need to make any pull requests to this repo
 
 # Resources
+- [Slides used in the session](https://docs.google.com/presentation/d/e/2PACX-1vQbtDDGQonkIoGu68VrINL2s3sQcfiH5XVnk-iU26nk16DFBGsDabichsqhdtBvowPvpxaIbFLAV2h3/pub?slide=id.p)
 - Introduction to Python and Django by [Programming With Mosh](https://youtu.be/_uQrJ0TkZlc)
 - Detailed Django Tutorials by [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 - [Mozilla's Tutorials](https://developer.mozilla.org/en-US/docs/Learn/Server-side) on Server Side Programming with Django
