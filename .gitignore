@@ -1,4 +1,5 @@
 demo/django-env
+env/
 
 .DS_Store
 
